@@ -18,6 +18,10 @@
 		{
 			"Name": "DynamicDismembermentSystem",
 			"Enabled": true
+		},
+		{
+			"Name": "PhysicsControl",
+			"Enabled": true
 		}
 	]
 }
